@@ -1,7 +1,6 @@
 ## Hi there 👋
+## I´m currently working on my Bachelor Thesis.🫠 So mainly just working with LaTeX and Python.
 
-<!--
-**Atlas-Shrugged/Atlas-Shrugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
